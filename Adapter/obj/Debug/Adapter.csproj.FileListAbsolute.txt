@@ -1,0 +1,18 @@
+D:\Training Programs\ITPassport\Advanced Programming & Design Patterns\Creational Patterns\Adapter\Adapter\bin\Debug\Adapter.exe.config
+D:\Training Programs\ITPassport\Advanced Programming & Design Patterns\Creational Patterns\Adapter\Adapter\bin\Debug\Adapter.exe
+D:\Training Programs\ITPassport\Advanced Programming & Design Patterns\Creational Patterns\Adapter\Adapter\bin\Debug\Adapter.pdb
+D:\Training Programs\ITPassport\Advanced Programming & Design Patterns\Creational Patterns\Adapter\Adapter\obj\Debug\Adapter.csprojResolveAssemblyReference.cache
+D:\Training Programs\ITPassport\Advanced Programming & Design Patterns\Creational Patterns\Adapter\Adapter\obj\Debug\Adapter.exe
+D:\Training Programs\ITPassport\Advanced Programming & Design Patterns\Creational Patterns\Adapter\Adapter\obj\Debug\Adapter.pdb
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Adapter\Adapter\bin\Debug\Adapter.exe.config
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Adapter\Adapter\obj\Debug\Adapter.exe
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Adapter\Adapter\obj\Debug\Adapter.pdb
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Adapter\Adapter\bin\Debug\Adapter.exe
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Adapter\Adapter\bin\Debug\Adapter.pdb
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Adapter\Adapter\obj\Debug\Adapter.csprojResolveAssemblyReference.cache
+D:\class\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Adapter\Adapter\bin\Debug\Adapter.exe.config
+D:\class\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Adapter\Adapter\obj\Debug\Adapter.exe
+D:\class\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Adapter\Adapter\obj\Debug\Adapter.pdb
+D:\class\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Adapter\Adapter\bin\Debug\Adapter.exe
+D:\class\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Adapter\Adapter\bin\Debug\Adapter.pdb
+D:\class\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Adapter\Adapter\obj\Debug\Adapter.csprojResolveAssemblyReference.cache
